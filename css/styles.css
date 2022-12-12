@@ -40,7 +40,7 @@ body{
 #logo h1{
     font-weight: bold;
     font-size: 25px;
-    color: #FB314E;
+    color: #D4AF37;
 }
 
 #menu{
@@ -60,18 +60,18 @@ body{
 }
 
 #menu ul li a:hover{
-    color: #FB314E;
+    color: #D4AF37;
 }
 
 /* SLIDER */
 
 #slider{
     height: 300px;
-    background: #FB314E;
+    background: #D4AF37;
 }
 
 #slider{
-    font-size: 40px;
+    font-size: 28px;
     text-align: center;
     color: white;
     line-height: 290px;
@@ -87,12 +87,12 @@ body{
     margin-top: 40px;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 1px solid rgba(251, 49, 78, 0.3);
+    border-bottom: 1px solid rgba(212, 175, 55, 0.4);
 
 }
 
 .service, .video{
-    width: 33%;
+    width: 50%;
     text-align: center;
     float: left;
     margin-top: 20px;
@@ -100,7 +100,7 @@ body{
 }
 
 .service img{
-    height: 48px;
+    height: 150px;
     margin-bottom: 20px;
 }
 
@@ -118,9 +118,9 @@ body{
 
 /* VIDEO */
 
-.video iframe{
+.video iframe, video{
     width: 80%;
-    height: 170px;
+    height: 250px;
 }
 
 /* FOOTER */
@@ -139,7 +139,7 @@ body{
 }
 
 #network{
-    width: 216px;
+    width: 150px;
     display: block;
     list-style: none;
     margin: 0px auto;
@@ -166,7 +166,7 @@ body{
     }
 }*/
 
-@media (max-width: 1225px){
+@media (max-width: 1250px){
     .container{
         width: 95%;
     }
@@ -175,6 +175,8 @@ body{
         
     }
 }
+
+
 
 @media (max-width: 1285px){
     #main-header{

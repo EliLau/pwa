@@ -1,10 +1,10 @@
 {
-    "name": "Elizabeth Lauterio PWA",
-    "short_name": "Elizabeth PWA",
-    "description": "App PWA curso de Eli",
+    "name": "Momentos | Regalos",
+    "short_name": "Momentos",
+    "description": "Momentos | Regala, recuerda y revive momentos increíbles.",
     "id":"./index.html?utm_source=web_app_manifest",
     "background_color": "#FFF",
-    "theme_color": "#FB314E",
+    "theme_color": "#D4AF37",
     "orientation": "portrait",
     "display": "standalone",
     "start_url":"./index.html?utm_source=web_app_manifest",
@@ -59,6 +59,10 @@
         {
             "src":"./img/favicon-16.png",
             "size":"16x16",
+            "type":"image/png"
+        },{
+            "src":"./img/logo.png",
+            "size":"720x720",
             "type":"image/png"
         }
     ]

@@ -26,7 +26,16 @@ var urlsToCache = [
     './img/favicon-96.png',
     './img/favicon-64.png',
     './img/favicon-32.png',
-    './img/favicon-16.png',
+    './img/AR.jpg',
+    './img/AR.mp4',
+    './img/AR2.mp4',
+    './img/caricatura.jpg',
+    './img/estelar.jpg',
+    './img/img5.jpg',
+    './img/logo.jpg',
+    './img/lunar.jpg',
+    './img/spo.jpg',
+    './img/YT.jpg',
 ];
 
 //Eventos
